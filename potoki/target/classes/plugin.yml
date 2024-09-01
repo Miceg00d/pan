@@ -1,0 +1,12 @@
+name: potoki
+version: '1.0'
+main: me.micegood.potoki.Plugin
+api-version: '1.18'
+authors: [ mice ]
+
+commands:
+  join:
+  firework:
+  test:
+  test1:
+  test2:
